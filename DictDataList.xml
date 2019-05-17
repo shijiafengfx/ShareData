@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<info>
+		<dict_can_use>true</dict_can_use>
 		<dict_msg>一些开源字典数据文件的下载地址</dict_msg>
+		<dicts_url>http://download.huzheng.org/zh_CN</dicts_url>
 	</info>
 	<dicts_root>
 		<dict>
@@ -9,42 +11,6 @@
 		    <size>9.3M</size>
 		    <url>http://download.huzheng.org/zh_CN/stardict-chengyuda-2.4.2.tar.bz2</url>
 		    <words>49472</words>
-		</dict> 
-		<dict>
-		    <name>现代汉语词典</name>
-		    <size>3.3M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-xiandaihanyucidian-2.4.2.tar.bz2</url>
-		    <words>57643</words>
-		</dict> 
-		<dict>
-		    <name>高级汉语大词典</name>
-		    <size>6.3M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-gaojihanyudacidian-2.4.2.tar.bz2</url>
-		    <words>51675</words>
-		</dict> 
-		<dict>
-		    <name>康熙字典文字版</name>
-		    <size>4.3M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-kangxitext-2.4.2.tar.bz2</url>
-		    <words>46816</words>
-		</dict> 
-		<dict>
-		    <name>朗道英汉字典</name>
-		    <size>9.1M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-langdao-ec-gb-2.4.2.tar.bz2</url>
-		    <words>435468</words>
-		</dict> 
-		<dict>
-		    <name>朗道汉英字典</name>
-		    <size>7.8M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-langdao-ce-gb-2.4.2.tar.bz2</url>
-		    <words>405719</words>
-		</dict> 
-		<dict>
-		    <name>牛津现代英汉双解词典</name>
-		    <size>7.6M</size>
-		    <url>http://download.huzheng.org/zh_CN/stardict-oxford-gb-2.4.2.tar.bz2</url>
-		    <words>39429</words>
 		</dict> 
 	</dicts_root>
 </root>
