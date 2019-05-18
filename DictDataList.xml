@@ -2,8 +2,9 @@
 <root>
 	<info>
 		<dict_can_use>true</dict_can_use>
-		<dict_msg>一些开源字典数据文件的下载地址</dict_msg>
+		<dict_msg>Dict data home page url</dict_msg>
 		<dicts_url>http://download.huzheng.org/zh_CN</dicts_url>
+		<vc_time>8258c3c4</vc_time>
 	</info>
 	<dicts_root>
 		<dict>
